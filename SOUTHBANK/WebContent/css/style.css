@@ -1,0 +1,237 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.clear
+{
+    clear: both;
+}
+header 
+{
+   height: 80px;
+   border-bottom: #001aff solid 2px;
+}
+
+
+#logo
+{
+  float: left;
+   margin-left: 10%;
+   margin-right: 10%;
+}
+#hotline
+    {
+    float: left;
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top: 2%;
+    }
+ 
+#centerimg{
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  position: absolute  ;
+  z-index: 2;
+}
+#form{
+position: absolute;
+margin-left: 65%;
+margin-top: 9%;
+z-index: 3;
+}
+
+#bang{
+width: 254px;
+height: 450px;
+position: relative;
+margin-top: -330px; 
+margin-left: 30px;
+text-align: center;
+
+
+}  
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover 
+{
+    background-color: #45a049;
+}
+
+
+#section2
+{
+    width: 100%;
+  
+    margin-top: 45%;
+    text-align: center;
+ 
+    
+}  
+#cacbuocduhoc
+{
+    font-size: 50px;
+    color: green;
+    margin: 5%;
+} 
+#step
+{
+   
+    margin-left: 18.5%;
+    margin-right: 18.5%;
+}
+#step1
+{
+    width: 200px;
+    height: 80px;
+    float: left;
+    margin: 5px;
+}
+#step2
+{
+    width: 200px;
+    height: 80px;
+    float: left;
+    margin: 5px;
+}
+#step3
+{
+    width: 200px;
+    height: 80px;
+    float: left;
+    margin: 5px;
+}
+#step4
+{
+    width: 200px;
+    height: 80px;
+    float: left; 
+    margin: 5px;
+}
+#sstep
+{
+    
+    margin-left: 18.5%;
+    margin-right: 18.5%;
+}
+#sstep1
+{
+    width: 200px;
+    height: 80px;
+    float: left;
+    margin: 5px;
+}
+#sstep2
+{
+    width: 200px;
+    height: 80px;
+    float: left;
+    margin: 5px;
+}
+#sstep3
+{
+    width: 200px;
+    height: 80px;
+    float: left;
+    margin: 5px;
+}
+#sstep4
+{
+    width: 200px;
+    height: 80px;
+    float: left; 
+    margin: 5px;
+}
+#btdk
+{
+    margin: 18%;
+    
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#sectionloiich
+{
+    
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    text-align: center;
+    
+}
+#loiichkhitham
+{
+    font-size: 50px;
+    color: green;
+    margin: 5%;
+}
+#lithamgia
+{
+margin: auto;
+width: 1281px;
+}
+.polaroid
+{
+    width: 200px;
+    height: 80px;
+    float: left;
+    margin: 5px;
+}
+
+/* #sectionhoso
+{
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    text-align: center;
+}
+#sectionhoso
+{
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    text-align: center;
+}
+#loiichhoso
+{
+    font-size: 50px;
+    color:red;
+    margin: 5%;
+}
+.ppolaroid
+{
+    width: 200px;
+    height: 80px;
+    float: left;
+    margin: 5px;
+} */
